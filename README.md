@@ -6,7 +6,6 @@ José Abraham Martínez Licona A01368551
 
 Bernardo Cisneros López A00833404
 
-
 Juan Pablo Ramirez Sobrepera A01252523
 
 Axl Emiliano López Rodríguez-Malpica - A01027032
