@@ -3,8 +3,6 @@ Actividad de materia "Análisis de ciencia de datos"
 # Actividad Git-GitHub
 # Equipo 3
 
-
-
 José Abraham Martínez Licona A01368551
 
 Bernardo Cisneros López A00833404
